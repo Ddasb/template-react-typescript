@@ -1,6 +1,6 @@
 import async from "../components/Async";
 
-const Homepage = async(() => import("../pages/homepage/homepage"));
+const Homepage = async(() => import("../pages/Homepage/homepage"));
 
 const homepageRoute = {
   id: "Homepage",
